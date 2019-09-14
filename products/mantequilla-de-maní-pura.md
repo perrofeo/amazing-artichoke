@@ -7,18 +7,18 @@ price: "20"
 images:
   default:
     thumbnail:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB.png"
+      optimized: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.webp"
+      fallback: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.png"
     original:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB.png"
+      optimized: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.webp"
+      fallback: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.png"
   featured:
     thumbnail:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB.png"
+      optimized: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.webp"
+      fallback: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.png"
     original:
-      optimized: "/images/ALMENDRAS CLASICA 100G WEB.webp"
-      fallback: "/images/ALMENDRAS CLASICA 100G WEB.png"
+      optimized: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.webp"
+      fallback: "/images/MANTEQUILLA ALMENDRA FONDO CLASICA 100G.png"
 category: almendra
 featured: true
 section: Store
