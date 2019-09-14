@@ -1,7 +1,7 @@
 ---
 layout: product
 id: "11"
-title: MANTEQUILLA DE MANÍ Pura
+title: MANTEQUILLA DE ALMENDRA Pura
 description: Procesada con almendra (de CR) sin sal y 100% puro
 price: "20"
 images:
