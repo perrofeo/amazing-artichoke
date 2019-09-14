@@ -99,6 +99,7 @@ fields:
   config:
     required: true
 pages:
+- products/mantequilla-de-maní-pura.md
 - products/plant9.md
 - products/plant8.md
 - products/plant7.md
